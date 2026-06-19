@@ -1,0 +1,12 @@
+{
+  "HomePage": {
+    "title": "Welcome to our store",
+    "description": "We ship all over Europe."
+  },
+
+  "Hero": {
+    "headline": "L'Inde incroyable",
+    "subheadline": "Choisi pour vous",
+    "subheadline2": "Merveilles locales, soigneusement sélectionnées"
+  }
+}
